@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+target/
+bin/
+
+# IDE / 系统
+.vscode/
+.idea/
+*.log
+.DS_Store
